@@ -1,0 +1,50 @@
+body{
+    width: 100%;
+}
+h1 {
+    color: grey;
+}
+
+img {
+    width: 250px;
+    margin-top: 20px;
+}
+
+.main-content{
+    margin: 100px 80px;
+    margin-bottom: 300px;
+    
+}
+
+h4{
+    margin-left: 80px;
+}
+
+span{
+    font-weight: 900;
+    
+}
+
+#loc {
+    color: green;
+}
+
+#lat {
+    color: orangered
+}
+
+input {
+        border: 1px solid #cccccc;
+        padding: 8px;
+        border-radius: 3px;
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid #888888;
+    background:#888888;
+    color: white;
+    padding: 8px;
+    border-radius: 3px;
+
+}
