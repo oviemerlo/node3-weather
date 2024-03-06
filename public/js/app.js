@@ -1,4 +1,4 @@
-console.log('client side javascript message')
+
 
 // const url = 'https://api.mapbox.com/geocoding/v5/mapbox.places/boston.json?access_token=pk.eyJ1Ijoib3ZpZW1lcmxvIiwiYSI6ImNsdDEya3Z5YTE4MnEycnBwcHI4cm5zZWsifQ.UpVajPFAaCqpWnpiHBJHeA&limit=1'
 
