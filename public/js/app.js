@@ -46,7 +46,7 @@ weatherForm.addEventListener('submit', (event) =>{
 
                 fetch(url1).then((response)=>{
                     response.json().then((data)=>{
-                        messageTwo.textContent = 'It is currently ' + data.current.temperature_2m + data.current_units.temperature_2m
+                        messageTwo.textContent = 'It is currently ' + data.current.temperature_2m + data.current_units.temperature_2m + " with a wind speed of " + data.current.wind_speed_10m + data.current_units.wind_speed_10m
     
                     })
                 })
