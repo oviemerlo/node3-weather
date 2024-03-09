@@ -48,3 +48,11 @@ button {
     border-radius: 3px;
 
 }
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue ;
+    font-weight: 900;
+}
